@@ -22,7 +22,8 @@ A simple and stylish weather application built using HTML, CSS, and JavaScript. 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/arsh10x/weather-forecast.git
+
 2. **Navigate to the Project Directory**
 
    ```bash
