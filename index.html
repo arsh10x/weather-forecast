@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Weather Forecast </title>
+    <title>Weather Forecast</title>
     <link rel="shortcut icon" href="./weather-app-icon.png" type="image/x-icon">
     <link rel="stylesheet" href="./style.css">
 </head>
@@ -20,15 +20,14 @@
                 <span class="weather_unit_farenheit">&#176F</span>
             </div>
         </div>
+        
+        <!-- Current Weather Section -->
         <div class="weather__body">
             <h1 class="weather__city"></h1>
-            <div class="weather__datetime">
-            </div>
+            <div class="weather__datetime"></div>
             <div class="weather__forecast"></div>
-            <div class="weather__icon">
-            </div>
-            <p class="weather__temperature">
-            </p>
+            <div class="weather__icon"></div>
+            <p class="weather__temperature"></p>
             <div class="weather__minmax">
                 <p>Min: 12&#176</p>
                 <p>Max: 16&#176</p>
@@ -65,7 +64,16 @@
                 </div>
             </div>
         </div>
+
+        <!-- 5-Day Weather Forecast Section -->
+        <div class="forecast__container">
+            <h2>5-Day Forecast</h2>
+            <div class="forecast__cards">
+                <!-- Forecast cards for each day will be dynamically added here -->
+            </div>
+        </div>
     </div>
+
     <script src="https://kit.fontawesome.com/a692e1c39f.js" crossorigin="anonymous"></script>
     <script src="./script.js"></script>
 </body>
