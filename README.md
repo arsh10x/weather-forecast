@@ -1,6 +1,9 @@
-![Weather App](https://github.com/user-attachments/assets/bd2dec54-e295-4ad1-a150-219b1bd9a619)
-
 A simple and stylish weather application built using HTML, CSS, and JavaScript. This app allows users to search for weather information of any city and view details such as temperature, humidity, wind speed, and more. The weather data is fetched using the OpenWeatherMap API.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a7a89e8b-467d-41da-b2e1-bc2861ebe79b" width="400"/>
+  <img src="https://github.com/user-attachments/assets/1148e36d-0951-4fcd-abdd-a20f6cae4b35" width="400"/>
+</p>
 
 ## Features
 
